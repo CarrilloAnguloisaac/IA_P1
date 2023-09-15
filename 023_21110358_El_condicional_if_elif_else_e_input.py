@@ -1,4 +1,4 @@
-new_varnew_var = edad = int(input('¿Cual es tu edad?\n'))
+new_varnew_var = edad = int(input('Â¿Cual es tu edad?\n'))
 
 if edad <= 0:
 	print('Nadie puede tener esa edad.')
@@ -11,4 +11,4 @@ elif edad > 45 and edad <= 100:
 elif edad > 100 and edad <= 120:
 	print('Eres muy mayor.')
 else:
-	print('Edad no válida.')
+	print('Edad no vÃ¡lida.')
