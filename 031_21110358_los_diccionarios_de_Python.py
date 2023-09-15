@@ -1,11 +1,11 @@
 teclado1 = {
-	'Categoría': 'Teclados',
+	'CategorÃ­a': 'Teclados',
 	'Modelo': 'HyperX Alloy FPS Pro',
 	'Precio': '89,99'
 }
 
 teclado2 = {
-	'Categoría': 'Teclados',
+	'CategorÃ­a': 'Teclados',
 	'Modelo': 'Corsair K55 RGB',
 	'Precio': '59,99'
 }
