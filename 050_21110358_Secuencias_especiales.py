@@ -1,19 +1,19 @@
 import re
 
-texto = "Bienvenidos a Programaci髇 f醕il y bienvenidos al curso de Python."
+texto = "Bienvenidos a Programaci贸n f谩cil y bienvenidos al curso de Python."
 buscar = re.findall("[c-g]", texto)
 print(buscar)
 
-texto = "縑an al zool骻ico?"
-buscar = re.findall("zo{2}l骻ico", texto)
+texto = "驴Van al zool贸gico?"
+buscar = re.findall("zo{2}l贸gico", texto)
 if buscar:
 	print("Hay al menos una coincidencia.")
 else:
 	print("No hay coincidencias.")
 	
 
-texto = "La programaci髇 es f醕il."
-buscar = re.findall("progra..ci髇", texto)
+texto = "La programaci贸n es f谩cil."
+buscar = re.findall("progra..ci贸n", texto)
 if buscar:
 	print("Hay al menos una coincidencia.")
 else:
