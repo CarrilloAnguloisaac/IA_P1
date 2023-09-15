@@ -1,5 +1,5 @@
 teclado1 = {
-	'Categoría': 'Teclados',
+	'CategorÃ­a': 'Teclados',
 	'Modelo': 'HyperX Alloy FPS Pro',
 	'Precio': '89,99'
 }
