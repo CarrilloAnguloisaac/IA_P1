@@ -7,12 +7,12 @@ while x <= 30:
 
 	# if para saltar ejecuciones del bucle
 	if x == 4 or x == 6 or x == 10:
-		print('Se saltó el valor ', x , ' de x')
+		print('Se saltÃ³ el valor ', x , ' de x')
 		continue
 
-	# if para romper la ejecución del bucle
+	# if para romper la ejecuciÃ³n del bucle
 	if x == 15:
-		print('Se rompió la ejecución del bucle cuando x valía: ', x)
+		print('Se rompiÃ³ la ejecuciÃ³n del bucle cuando x valÃ­a: ', x)
 		break
 
 	# imprime los resultados que no se corresponden a ninguno de los if
