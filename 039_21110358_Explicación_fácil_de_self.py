@@ -6,7 +6,7 @@ class Usuario:
 	def imprime_datos(self):
 		print('Nombre:', self.nombre, '\nApellidos:', self.apellidos)
 
-usuario001 = Usuario('Enrique', 'Barros Fern·ndez')
+usuario001 = Usuario('Enrique', 'Barros Fern√°ndez')
 
 usuario002 = Usuario('Javier', 'Gomila Reyes')
 
